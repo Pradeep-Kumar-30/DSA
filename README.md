@@ -1,6 +1,26 @@
 # Striver A2Z DSA Notes
 
-This repository contains the chapter-wise PDF notes of the Striver A2Z DSA sheet.
+This repository contains complete, chapter-wise notes for learning **Data Structures and Algorithms (DSA)** using the Striver A2Z DSA Sheet.
+
+## What is DSA?
+
+Data Structures and Algorithms are the core concepts used to store, organize, process, search, and optimize data efficiently.
+
+- **Data structures** define how data is arranged in memory, such as arrays, linked lists, stacks, queues, trees, graphs, heaps, and tries.
+- **Algorithms** are step-by-step procedures used to solve problems, such as searching, sorting, recursion, greedy methods, divide-and-conquer, and dynamic programming.
+- **Time and space complexity** help us compare solutions and choose the most efficient approach for different constraints.
+
+The goal of DSA is to develop strong problem-solving skills and write solutions that are correct, efficient, and scalable.
+
+## Learning Roadmap
+
+1. Build programming and complexity-analysis fundamentals.
+2. Learn sorting, array, and searching patterns.
+3. Practice string, linked list, and recursive problem-solving.
+4. Understand stack, queue, sliding window, and two-pointer techniques.
+5. Learn heaps, greedy algorithms, trees, graphs, and dynamic programming.
+6. Solve problems from brute force to optimized approaches.
+7. Analyze time complexity, space complexity, edge cases, and code correctness.
 
 ## Chapters
 
